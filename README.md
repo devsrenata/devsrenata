@@ -1,7 +1,7 @@
 ## Olá !!! Eu sou a Renata Martins 👋
 
 - 🚀 Apaixonada por tecnologia e desenvolvimento de software 
-- 💡 Curiosa em soluções que impactam posistivamente a sociedade
+- 💡 Curiosa em soluções que impactam positivamente a sociedade
 - 😄 Em constante aprendizado  - Cursando Análise e Desenvolvimento de Sistemas 
 
 
