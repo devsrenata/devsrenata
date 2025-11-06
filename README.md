@@ -1,7 +1,8 @@
 ## Olá !!! Eu sou a Renata Martins 👋
 
-- 💬 Estudo Análise e Desenvolvimento de Sistemas
-- 😄 Pronouns: Ela/Dela
+- 🚀 Apaixonada por tecnologia e desenvolvimento de software 
+- 💡 Curiosa em soluções que impactam posistivamente a sociedade
+- 😄 Em constante aprendizado  - Cursando Análise e Desenvolvimento de Sistemas 
 
 
 <div style="display: inline_block"><br>
