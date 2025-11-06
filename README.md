@@ -2,7 +2,8 @@
 
 - 🚀 Apaixonada por tecnologia e desenvolvimento de software 
 - 💡 Curiosa em soluções que impactam positivamente a sociedade
-- 😄 Em constante aprendizado  - Cursando Análise e Desenvolvimento de Sistemas 
+- 👩‍💻 Transformando idéias em códigos
+- 😄 Em constante aprendizado  - Cursando Análise e Desenvolvimento de Sistemas
 
 
 <div style="display: inline_block"><br>
